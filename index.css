@@ -1,0 +1,40 @@
+/*배경색, 텍스트, 기본 속성*/
+body {
+  text-align: center;
+  font-weight: bolder;
+}
+#span {
+  font-size: 12px;
+} /*기본 글크기*/
+article > nav {
+  background-color: skyblue;
+  border: solid 0px skyblue;
+  box-shadow: 1px 1px 5px gray;
+}
+/*부모엘리먼트에게 자식으로 인정하게 설정*/
+.nav {
+  padding-left: 38%;
+  overflow: auto;
+}
+/*layout*/
+main {
+  padding: 30px;
+}
+.nav,
+#span {
+  margin: 20px;
+}
+.nav > nav {
+  width: 120px;
+  height: 120px;
+  color: white;
+  font-size: 20px;
+  float: left;
+  margin-right: 20px;
+  padding: 40px 0px;
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}

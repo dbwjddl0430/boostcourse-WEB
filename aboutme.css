@@ -1,0 +1,27 @@
+/*배경색, 텍스트, 이전 파일과 동일한 코드*/
+body {
+  margin: 10px 150px;
+}
+span {
+  font-size: 15px;
+}
+/*box-modle*/
+article {
+  padding: 20px;
+}
+.contant {
+  padding: 0px 80px;
+  margin: 10px 0px;
+}
+span > a {
+  color: blue;
+}
+.span {
+  margin: 5px 0px;
+}
+h1 {
+  margin: 0px;
+}
+main {
+  padding: 0px 150px;
+}
