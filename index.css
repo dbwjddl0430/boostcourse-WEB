@@ -1,17 +1,17 @@
-/*ë°°ê²½ìƒ‰, í…ìŠ¤íŠ¸, ê¸°ë³¸ ì†ì„±*/
+/*¹è°æ»ö, ÅØ½ºÆ®, ±âº» ¼Ó¼º*/
 body {
   text-align: center;
   font-weight: bolder;
 }
 #span {
   font-size: 12px;
-} /*ê¸°ë³¸ ê¸€í¬ê¸°*/
+} /*±âº» ±ÛÅ©±â*/
 article > nav {
   background-color: skyblue;
   border: solid 0px skyblue;
   box-shadow: 1px 1px 5px gray;
 }
-/*ë¶€ëª¨ì—˜ë¦¬ë¨¼íŠ¸ì—ê²Œ ìì‹ìœ¼ë¡œ ì¸ì •í•˜ê²Œ ì„¤ì •*/
+/*ºÎ¸ğ¿¤¸®¸ÕÆ®¿¡°Ô ÀÚ½ÄÀ¸·Î ÀÎÁ¤ÇÏ°Ô ¼³Á¤*/
 .nav {
   padding-left: 38%;
   overflow: auto;
